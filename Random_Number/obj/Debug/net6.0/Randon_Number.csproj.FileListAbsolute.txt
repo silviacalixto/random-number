@@ -1,0 +1,15 @@
+C:\StudiesRepo\Randon_Number\Randon_Number\bin\Debug\net6.0\Randon_Number.exe
+C:\StudiesRepo\Randon_Number\Randon_Number\bin\Debug\net6.0\Randon_Number.deps.json
+C:\StudiesRepo\Randon_Number\Randon_Number\bin\Debug\net6.0\Randon_Number.runtimeconfig.json
+C:\StudiesRepo\Randon_Number\Randon_Number\bin\Debug\net6.0\Randon_Number.dll
+C:\StudiesRepo\Randon_Number\Randon_Number\bin\Debug\net6.0\Randon_Number.pdb
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.csproj.AssemblyReference.cache
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.AssemblyInfoInputs.cache
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.AssemblyInfo.cs
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.csproj.CoreCompileInputs.cache
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.dll
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\refint\Randon_Number.dll
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.pdb
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\Randon_Number.genruntimeconfig.cache
+C:\StudiesRepo\Randon_Number\Randon_Number\obj\Debug\net6.0\ref\Randon_Number.dll
